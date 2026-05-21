@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/ptakim//_next/:path+",
+        "destination": "/ptakim/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
