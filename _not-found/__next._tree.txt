@@ -1,3 +1,3 @@
 :HL["/Ptakim/_next/static/chunks/11unif--rw5h8.css","style"]
 :HL["/Ptakim/_next/static/chunks/03_-8h3e-xtf4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kGlOM7X64F4sDOH-wdiLx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PDFQeLhlWleJwPT0jiTRc"}
